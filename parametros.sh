@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "El nombre del programa es: $0"
+echo "----------------------------------"
+echo "El primero parámetro recibido es: $1"
+echo "El segundo parámetro recibido es: $2"
+echo "El tercer par´ametro recibido es: $3"
+echo "El cuarto par´ametro recibido es: $4"
+echo "----------------------------------"
+echo "El conjunto de parámetros recibidos es: $@"
+echo "El número total de parámetros recibidos es: $#"
