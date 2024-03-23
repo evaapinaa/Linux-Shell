@@ -9,6 +9,6 @@ case $1 in
 		bash $1
 		;;
 	*)
-		echo "No hay tratamiento para el dichero $1"
+		echo "No hay tratamiento para el fichero $1"
 		;;
 esac
